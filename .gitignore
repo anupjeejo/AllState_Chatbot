@@ -1,0 +1,85 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# =========================
+# Virtual Environments
+# =========================
+venv/
+.env/
+.env.*/
+.venv/
+
+# =========================
+# Distribution / Packaging
+# =========================
+build/
+dist/
+develop-eggs/
+eggs/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# =========================
+# PyInstaller
+# =========================
+*.manifest
+*.spec
+
+# =========================
+# Testing / Coverage
+# =========================
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+pytest_cache/
+hypothesis/
+
+# =========================
+# Logs & Runtime Files
+# =========================
+*.log
+*.pid
+*.out
+
+# =========================
+# IDE / Editors
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =========================
+# OS Files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Jupyter Notebook
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Environment / Secrets
+# =========================
+.env
+*.env
+
+# =========================
+# FastAPI / Uvicorn
+# =========================
+uvicorn.log
+
+# =========================
+# SQLite / Local DB
+# =========================
+*.sqlite3
