@@ -13,3 +13,6 @@
 
 ->Install requirements from requirements file: 
   pip install -r requirements.txt
+
+->Run StreamLit app
+	streamlit run app.py
